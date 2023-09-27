@@ -1,0 +1,7 @@
+,who,adult_male,deck,embark_town,alive,alone
+0,man,TRUE,,Southampton,no,FALSE
+1,woman,FALSE,C,Cherbourg,yes,FALSE
+2,woman,FALSE,,Southampton,yes,TRUE
+3,woman,FALSE,C,Southampton,yes,FALSE
+4,man,TRUE,,Southampton,no,TRUE
+5,man,TRUE,,Queenstown,no,TRUE
